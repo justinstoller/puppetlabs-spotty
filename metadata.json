@@ -1,6 +1,6 @@
 {
   "name": "puppetlabs-spotty",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "puppetlabs",
   "summary": "A module with a spotty release record",
   "license": "Apache 2.0",
