@@ -36,5 +36,5 @@
 # Copyright 2015 Your name here, unless otherwise noted.
 #
 class spotty {
-  notify { "The second release, Version 2, which will be deleted from the testing forge": }
+  notify { "The third release, Version 3, which won't be deleted from the testing forge": }
 }
